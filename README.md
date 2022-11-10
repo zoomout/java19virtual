@@ -35,3 +35,6 @@ It took 10 seconds for regular Thread pool (size 100) to execute 1_000 delayed b
 It took 1 second for Virtual Thread pool to execute 1_000 delayed by 1 second tasks.
 
 It took 1.2 second for Virtual Thread pool to execute 100_000: delayed by 1 second tasks.
+
+# Credits
+Examples are taken from https://www.happycoders.eu/java/virtual-threads/
