@@ -31,5 +31,7 @@ sum = 100000; time = 1244 ms
 
 # Summary
 It took 10 seconds for regular Thread pool (size 100) to execute 1_000 delayed by 1 second tasks.
+
 It took 1 second for Virtual Thread pool to execute 1_000 delayed by 1 second tasks.
+
 It took 1.2 second for Virtual Thread pool to execute 100_000: delayed by 1 second tasks.
